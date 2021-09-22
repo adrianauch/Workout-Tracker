@@ -2,8 +2,8 @@
 
 Application is deployed links:
 
-Heroku:
-Github:
+Heroku: https://polar-peak-65813.herokuapp.com/
+Github: https://adrianauch.github.io/Workout-Tracker/
 
 ## Description:
 
